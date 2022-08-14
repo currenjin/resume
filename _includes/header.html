@@ -116,9 +116,14 @@
           {{ site.phone_title | default: "Phone" }}: {{ site.phone | escape }}
         </p>
       {%- endif -%}
-      {%- if site.website -%}
+      {%- if site.blog -%}
         <p>
-          {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          {{ site.blog_title | default: "Web" }}: {% include a.html href=site.blog %}{{ site.blog | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.wiki -%}
+        <p>
+          {{ site.wiki_title | default: "Web" }}: {% include a.html href=site.wiki %}{{ site.wiki | escape }}</a>
         </p>
       {%- endif -%}
     </div>

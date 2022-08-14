@@ -12,8 +12,10 @@ email: hyun0524e@naver.com
 # email_title: Email (Email title override)
 phone: 01028810909
 # phone_title: Phone (Phone title override)
-website: currenjin.github.io
-# website_title: Web (Website title override)
+wiki: currenjin.github.io
+wiki_title: Wiki
+blog: simpleisit.tistory.com
+blog_title: Blog
 
 # Dark Mode (true/false/never)
 darkmode: false
