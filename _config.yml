@@ -146,13 +146,12 @@ content:
           - 2018 대전지방기능경기대회 <mark>금메달</mark>
           - 2017 대전지방기능경기대회 <mark>은메달</mark>
           - 2016 (사)기능한국인회 <mark>장학생</mark>
-
-  - title: A Little More About Me
-    layout: text
-    content: |
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#  - title: A Little More About Me
+#    layout: text
+#    content: |
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
