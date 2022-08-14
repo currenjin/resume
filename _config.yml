@@ -55,6 +55,7 @@ instagram_username: currenjin
 about_profile_image: images/profile.jpeg
 about_content: |
   Spring / React / NodeJS / Typescript / GraphQL / React / AWS 를 주로 사용해 온 개발자입니다. <mark>테스트</mark> 및 <mark>체크리스트</mark>가 우선인 개발을 중요시하며, <mark>CDD(Checklist Driven Development)</mark> 라는 개발 방법론을 만들어 팀 내에 공유했습니다.<br>
+  도메인 프로젝트를 구현하고, 코드에 숨겨진 도메인을 드러내기 위한 설계 및 개선, 시스템 유지보수 등을 했습니다.
   개인의 성장과 욕심보다는, 유저에게 전달되는 <mark>가치</mark>가 가장 중요하다고 생각합니다. 항상 목적과 가치에 흥분합니다.
 
 
