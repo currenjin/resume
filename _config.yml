@@ -154,7 +154,16 @@ content:
           - 2019 <mark>기능상</mark>
           - 2018 교내 전공연구회 <mark>1위</mark>
           - 2017 교내 전공연구회 <mark>1위</mark>
-
+  - title: Certificate
+    layout: text
+    content: |
+      - 2020.07  Azure Certified AZ-900
+      - 2020.02  Cisco Certificate Network Associate
+      - 2019.05  정보처리산업기사
+      - 2018.07  전기기능사
+      - 2018.06  리눅스마스터 2급
+      - 2016.09  네트워크관리사 2급
+      - 2016.09  정보기기운용기능사
 #  - title: A Little More About Me
 #    layout: text
 #    content: |
