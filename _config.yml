@@ -83,6 +83,41 @@ content:
               L2/L3 Switch, Router, Backbone, IPT, 패킷분석, 통신회선 구축, 논리적/물리적 망분리, 원활한 통신 위한 효율성 고려 네트워크 구축
           - **보안업무 지원**
               통합관리시스템(EMS), 네트워크 차단/탐지 시스템(IPS/IDS), 네트워크 접근 통제 시스템(NAC), 방화벽(F/W), 사내 보안 정책
+  - title: Skill
+    layout: list
+    content:
+      - layout: left
+        title: Language
+        description: |
+          - Java, Javascript, Typescript
+      - layout: left
+        title: Backend
+        description: |
+          - Spring Boot, Spring MVC, Spring Batch, Spring Data JDBC, Spring Cloud AWS
+          - NodeJS, GraphQL, Sequelize
+          - Mockito, JUnit 4/5
+          - Gradle
+      - layout: left
+        title: Frontend
+        description: |
+          - ReactJS, NextJS
+          - NPM, Webpack
+          - HTML, CSS
+      - layout: left
+        title: DevOps
+        description: |
+          - Postgresql, MySQL
+          - Linux
+          - Docker, Docker Compose, Dockerfile, Docker Image
+          - AWS EC2, Elastic Beanstalk, SQS, SNS, SES, S3, RDS, Lambda, Cloud Watch, Event Bridge
+      - layout: left
+        title: Network
+        description: |
+          - Cisco Router/Switch configuration & installation
+          - Alcatel L2/L3/Backbone configuration & installation
+          - IP Phone Settings
+          - Network Access Control
+
 #  - title: Projects
 #    layout: list
 #    content:
