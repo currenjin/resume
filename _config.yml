@@ -160,10 +160,10 @@ content:
           - 정보보호 기술 발표(블록체인 기술)
           - 사이버공격 대회
       - layout: left
-        title: 국제기능올림픽대회 특별교육 이수 (Linux server)
+        title: 국제기능올림픽대회 특별교육 이수
         caption: 2017.11
         quote: >
-          한국산업인력공단 산하 교육
+          한국산업인력공단 산하 Linux server 교육
         description: |
           - Bind9, Ldap, Apcahe 등의 서버 구축
           - Network service 구성
