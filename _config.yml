@@ -119,25 +119,140 @@ content:
           - IP Phone Settings
           - Network Access Control
 
-#  - title: Projects
-#    layout: list
-#    content:
-#      - layout: left
-#        border: weak
-#        title: Project name
-#        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        link_text: Link Text
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
-#          Short overview of the project (optional)
-#        description: |
-#          Description about the work on/with the project
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: 평생교육원 전환
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#75cf6b602f2749069fc163f7e5f3eb0c
+        link_text: 자세히
+        quote: >
+          트레바리의 평생교육원 전환으로 파생된 시스템 아키텍처 개선 프로젝트입니다. 기존 레거시 시스템의 불편함을 해소하고, 변화에 닫혀있던 딱딱한 시스템에서 하루 약 2만 건 이상 발생하는 이벤트를 처리할 수 있는 유연한 시스템으로 변경되었습니다.<br>
+        description: |
+          - SQS Message Consumer(Spring Cloud AWS Messaging)
+          - 주요 도메인 레이어 개발
+          - 주요 어플리케이션 레이어 개발
+          - Mockito, JUnit 4/5 를 이용한 도메인 / 어플리케이션 테스트 코드 작성
+      - layout: left
+        border: weak
+        title: 클럽 소개글 개선
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#67921c04b6604b4db425f5ef04bf9b23
+        link_text: 자세히
+        quote: >
+          트레바리 클럽의 각 파트너는 클럽에 필요한 정보를 삽입해야 합니다. 크루는 파트너와 직접 커뮤니케이션하며 수기로 확인했던 방식을 자동화했습니다.
+        description: |
+          - 클럽 소개서 테이블 설계
+          - 소개서 피드백 테이블 설계
+          - Sequelize Migration 을 통한 테이블 추가 및 컬럼 변경
+          - GraphQL Resolver 를 이용한 CRUD API 정의
+      - layout: left
+        border: weak
+        title: 기간 만료에 따른 티켓 만료 처리
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#69347def659c4727b55e93893666aa52
+        link_text: 자세히
+        quote: >
+          트레바리 유저는 각 서비스를 이용할 수 있는 티켓을 소유합니다. 티켓은 만료된 일자가 지나면 사용할 수 없게 설계되었는데, 만료 시 티켓을 제거하는 작업입니다.
+        description: |
+          - 도메인 작업을 통해 티켓 만료 여부를 확인
+          - Batch Configuration 을 통한 만료 티켓 제거
+      - layout: left
+        border: weak
+        title: 유클매(유저-클럽 매칭)
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#e3ad7565099643f696019dff12a597c6
+        link_text: 자세히
+        quote: >
+          클럽 선택이 어려운 유저를 위해 질의응답을 통한 클럽 추천을 받습니다.
+        description: |
+          - 테이블 설계
+          - 결과 데이터 마이그레이션
+          - Create, Update API
+          - Google Analytics 이벤트
+          - Kakaotalk 공유 및 링크 복사
+      - layout: left
+        border: weak
+        title: 자스민
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#2b093e21254f4b06a3ff4d8693140ee0
+        link_text: 자세히
+        quote: >
+          유저는 트레바리 독서모임 클럽을 결제할 때 책과 함께 결제할 수 있습니다. 클럽을 결제한 후 책을 따로 구매해야 했던 불편한 경험을 해소했습니다.
+        description: |
+          - 책에 대한 주문 정보를 저장합니다.
+          - 책을 함께 주문했을 때, 책 금액을 포함한 금액이 결제됩니다.
+          - 책을 함께 주문했을 때, 주문됨 이벤트를 발행합니다.
+      - layout: left
+        border: weak
+        title: DLQ Notification
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#7493190933314b97b9c64dbc3e9488f7
+        link_text: 자세히
+        quote: >
+          Consumer 가 SQS 메시지 소비에 실패했을 때, 알림을 받을 수 있도록 합니다. 에러가 발생했을 때 빠르게 발생 사실 및 원인을 파악할 수 있도록 하는 것이 목적입니다.
+        description: |
+          - SQS 메시지 소비 실패 시 DLQ 삽입
+          - Lambda 함수를 이용한 DLQ 메시지 소비
+          - Lambda 함수를 이용한 슬랙 알림 메시지 발송
+      - layout: left
+        border: weak
+        title: 휴면 계정 처리
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#7ae9fe3ce2bc4d348060bd7dc1e18e6b
+        link_text: 자세히
+        quote: >
+          1년 동안 로그인하지 않은 유저는 1년이 경과된 시점부터 휴면 계정으로 간주해, 정보를 파기하거나 분리 보관해야 합니다. 트레바리에선 적용되지 않고 있던 휴면 계정 변환 작업을 진행했습니다.
+        description: |
+          - ReactJS 를 이용한 휴면 해제 페이지
+          - 크루 어드민 페이지 내 휴면 계정 조회 페이지
+          - 크루 어드민 페이지 내 휴면 계정 수동 해제 기능
+      - layout: left
+        border: weak
+        title: 트담트담
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#96580a9a077143f1b591d9ff57b51e61
+        link_text: 자세히
+        quote: >
+          환자들만 심리 상담을 받는다는 인식에서 벗어나, 모든 사람들이 마음 건강을 위해 상담을 받는 프로덕트입니다. 호시담 심리상담센터와 협업했습니다. 기존 트레바리 클럽 프로세스를 차용했습니다.
+        description: |
+          - GraphQL API 요청을 통한 가입 문자 발송
+          - 메일 발송
+          - 마음스캔 결과 테이블 설계
+          - 마음스캔 결과 API 정의
+          - 페이지 추가
+      - layout: left
+        border: weak
+        title: 마음 스캔 리포트
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#a45f642ca16440d284eea558c41589fe
+        link_text: 자세히
+        quote: >
+          자존감을 주제로 한 마음 스캔입니다. 23개의 검사 문항과 8개 결과 유형으로 구성됩니다. 타사와 협업 중이던 ‘트담트담' 서비스의 인지도 상승을 목적으로 작업했으며, 해당 상품 구매로 이어질 것으로 기대했습니다.
+        description: |
+          - Google Analytics 이벤트 수집
+          - 페이스북, 카카오톡 공유하기 / 링크 복사 기능
+          - 마음 스캔 검사 페이지
+      - layout: left
+        border: weak
+        title: 주문 아키텍처 개선
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#5e24d1cfdd8f4a56b7e4f352f0c5d019
+        link_text: 자세히
+        quote: >
+          주문 도메인을 드러내고, 응집도를 높입니다. 이에 따른 리팩토링이 주된 작업입니다.
+        description: |
+          개발자가 주문 신청 시스템의 이해에 들이는 시간을 줄입니다.<br>
+          - 어떤 Validate, Rollback, Process 가 진행되는지 한 눈에 파악할 수 있습니다.
+          - 시스템의 단순화로 인해, 복잡도가 낮아집니다.
+          - 복잡도가 낮아지면서, 개발자의 개발 속도가 빨라집니다.
+          - 비교적 피처를 빠르게 추가할 수 있게됩니다.
+      - layout: left
+        border: weak
+        title: 놀러가기 서비스 개선
+        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#bc778a8880c44f2c938bec3d885afc80
+        link_text: 자세히
+        quote: >
+          개념으로만 존재하던 놀러가기 서비스를 개선했습니다. 크루는 유저가 신청한 놀러가기 서비스를 수기로 처리했었고, 유저는 자신이 놀러가기를 할 수 있는지 확실하게 알 수 없었습니다. 놀러가기라는 도메인을 드러내 두 불편함을 해소했습니다.
+        description: |
+          - API Controller
+          - 외부 모듈 조회(놀러가기 쿠폰)
+          - 도메인 개발
+          - 도메인 상태 관리
+          - JDBC Repository
+
   - title: Education
     layout: list
     content:
