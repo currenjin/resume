@@ -62,6 +62,14 @@ content:
     layout: list
     content:
       - layout: left
+        title: CJ ENM 캐디터(CHAEDITOR) 팀
+        sub_title: 테크 리드
+        caption: 2022.09 ~ ing
+        link: https://chaeditor.im
+        quote: >
+          CJ ENM 사내벤처 Series A 1기에 선정된 팀
+        description: |
+      - layout: left
         title: 트레바리(TREVARI)
         sub_title: 도메인 엔지니어
         caption: 2020.09 ~ 2022.09
@@ -122,6 +130,14 @@ content:
   - title: Projects
     layout: list
     content:
+      - layout: left
+        border: weak
+        title: 캐디터(Chaeditor) MVP
+        link: https://currenjin.notion.site/CHAEDITOR-12564b2d2e294011969b10af041b7aaf
+        link_text: 자세히(현재 비공개)
+        quote: >
+        description: |
+          - 작성 예정
       - layout: left
         border: weak
         title: 평생교육원 전환
