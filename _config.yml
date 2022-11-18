@@ -70,8 +70,8 @@ content:
           CJ ENM 사내벤처 Series A 1기에 선정된 팀
         description: |
           - 기획자, 개발자 간 유저 스토리 기반의 소통을 주도
-          - 테스트 및 체크리스트 중심 개발을 주도 ** Test/Checklist Driven Development*
-          - 프로젝트가 끝날 때마다 회고를 주도 ** KPT 기법*
+          - 테스트 및 체크리스트 중심 개발을 주도 <mark>Test/Checklist Driven Development</mark>
+          - 프로젝트가 끝날 때마다 회고를 주도 <mark>KPT 기법</mark>
       - layout: left
         title: 트레바리(TREVARI)
         sub_title: 도메인 엔지니어
