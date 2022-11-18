@@ -69,7 +69,9 @@ content:
         quote: >
           CJ ENM 사내벤처 Series A 1기에 선정된 팀
         description: |
-          - 작성 예정입니다.
+          - 기획자, 개발자 간 유저 스토리 기반의 소통을 주도
+          - 테스트 및 체크리스트 중심 개발을 주도 ** Test/Checklist Driven Development*
+          - 프로젝트가 끝날 때마다 회고를 주도 ** KPT 기법*
       - layout: left
         title: 트레바리(TREVARI)
         sub_title: 도메인 엔지니어
@@ -134,11 +136,18 @@ content:
       - layout: left
         border: weak
         title: 캐디터(Chaeditor) MVP
-        link: https://currenjin.notion.site/CHAEDITOR-12564b2d2e294011969b10af041b7aaf
-        link_text: 자세히(현재 비공개)
+        link: https://currenjin.notion.site/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf
+        link_text: 자세히
         quote: >
         description: |
-          - 작성 예정
+          - API Controller 구현
+          - Domain/Application 구현
+          - Database Table 설계 및 정의
+          - Data Migration
+          - 서버 구축 및 배포 플로우 정의
+          - SSL 인증서 적용
+          - Google OAuth API 연동
+          - Frontend 작업 서포트
       - layout: left
         border: weak
         title: 평생교육원 전환
