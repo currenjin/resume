@@ -139,6 +139,7 @@ content:
         link: https://currenjin.notion.site/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf
         link_text: 자세히
         quote: >
+          작가를 위한 작품/캐릭터 빌딩 플랫폼을 구현했습니다.<br>
         description: |
           - API Controller 구현
           - Domain/Application 구현
