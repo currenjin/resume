@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 정현진
-title: Software engineer
+title: Software engineer | Start-up CEO
 email: hyun0524e@naver.com
 # email_title: Email (Email title override)
 phone: 01028810909
@@ -61,6 +61,16 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: COSMIC Co.
+        sub_title: CEO
+        caption: 2022.09 ~ ing
+        # link:
+        quote: >
+          사람들이 더욱 가까워지고 이어지기를 원하는 조직, 2023 예비창업패키지 최종 선정
+        description: |
+          - <mark>무물</mark> 앱 릴리즈. 사람들 스스로가 더 나은 기분을 느낄 수 있는 공간(앱)을 제공하는게 목적.
+          - 사업 방향성 설정, 프로덕트 개발, 마케팅 등 MVP를 위한 모든 과정에 참여. <mark>현재 유저 약 300명</mark>
       - layout: left
         title: CJ ENM 캐디터
         sub_title: 테크 리드
