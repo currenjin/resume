@@ -64,6 +64,16 @@ content:
     layout: list
     content:
       - layout: left
+        title: Wemeet Mobility
+        sub_title: Leader
+        caption: 2024.01 ~ ing
+        # link:
+        quote: >
+          모두를 위한 모든 이동의 혁신을 만들어나갑니다.
+        description: |
+          - 모두를 위한 모든 이동의 혁신을 만들어나갑니다.
+          - 2025 산업기능요원 예정
+      - layout: left
         title: Cosmic Connection
         sub_title: CEO
         caption: 2022.10 ~ ing
