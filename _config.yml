@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 정현진
-title: Software engineer | Start-up CEO
+title: Software engineer
 email: hyun0524e@naver.com
 # email_title: Email (Email title override)
 phone: 01028810909
@@ -65,18 +65,17 @@ content:
     content:
       - layout: left
         title: Wemeet Mobility
-        sub_title: Leader
+        sub_title: Business Architecture Leader
         caption: 2024.01 ~ ing
         # link:
         quote: >
-          모두를 위한 모든 이동의 혁신을 만들어나갑니다.
+          모두를 위한 모든 이동의 혁신을 만들어나가는 기업, 총 270억 규모 투자 유치
         description: |
-          - 모두를 위한 모든 이동의 혁신을 만들어나갑니다.
-          - 2025 산업기능요원 예정
+          - 2025 산업기능요원
       - layout: left
         title: Cosmic Connection
         sub_title: CEO
-        caption: 2022.10 ~ ing
+        caption: 2022.10 ~ 2025.01
         # link:
         quote: >
           사람들이 더욱 가까워지고 이어지기를 원하는 조직, 2023 예비창업패키지 최종 선정
@@ -89,7 +88,7 @@ content:
         caption: 2022.09 ~ 2022.12
         link: https://chaeditor.im
         quote: >
-          웹소설 또는 웹툰 작가를 위한 작품/캐릭터 빌딩 플랫폼, CJ ENM 사내벤처 Series A 1기에 선정된 팀
+          웹소설 또는 웹툰 작가를 위한 작품/캐릭터 빌딩 플랫폼, CJ ENM 사내벤처 Series A 1기 선정
         description: |
           - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달. [진행 프로젝트](https://www.notion.so/currenjin/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf)
           - 기획자, 개발자 간 유저 스토리 기반의 소통을 주도.
@@ -101,7 +100,7 @@ content:
         caption: 2020.09 ~ 2022.09
         link: https://trevari.co.kr
         quote: >
-          누적 회원 수 15 만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90 억 투자 유치
+          누적 회원 수 15 만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90억 투자 유치
         description: |
           - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달. [진행 프로젝트](https://currenjin.notion.site/TREVARI-984446f51fb34d9b9bb349c86ad7d1af)
           - 절차 지향 코드를 도메인 기반의 이해하기 쉬운 <mark>객체지향 코드로 개선</mark>. 이해하기 위한 코드는 약 10,000 줄에서 15 줄로 감소.
