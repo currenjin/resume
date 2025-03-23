@@ -70,11 +70,12 @@ content:
         quote: >
           모두를 위한 모든 이동의 혁신을 만들어나가는 기업, 총 270억 규모 투자 유치
         description: |
+          - [진행프로젝트](https://currenjin.notion.site/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4)
           - 2025 산업기능요원 현역 복무
-          - **HLB 테라퓨틱스 콜드체인 프로젝트**의 성공적인 마무리로 시리즈B 투자에 기여 ** 200억 규모*
-          - **제주오늘 MSA 전환 프로젝트의 설계/개발/배포 주도**, 이벤트 스토밍/테스트 주도 개발을 통한 프로젝트 빌딩
-          - **사내 스터디 운영**을 주도해 성장을 갈망하는 모두에게 도움되는 환경 구성 ** 공자 스터디*
-          - **프로젝트 마무리 시 회고** 주도 ** KPT 기법*
+          - <mark>HLB 테라퓨틱스 콜드체인 프로젝트</mark>의 성공적인 마무리로 시리즈B 투자에 기여 <mark>200억 규모</mark>
+          - <mark>제주오늘 MSA 전환 프로젝트의 설계/개발/배포</mark> 주도, 이벤트 스토밍/테스트 주도 개발을 통한 프로젝트 빌딩
+          - <mark>사내 스터디 운영</mark>을 주도해 성장을 갈망하는 모두에게 도움되는 환경 구성. 
+          - <mark>프로젝트 마무리 시 회고</mark> 주도.
       - layout: left
         title: Cosmic Connection
         sub_title: CEO
@@ -93,7 +94,8 @@ content:
         quote: >
           웹소설 또는 웹툰 작가를 위한 작품/캐릭터 빌딩 플랫폼, CJ ENM 사내벤처 Series A 1기 선정
         description: |
-          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달. [진행 프로젝트](https://www.notion.so/currenjin/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf)
+          - [진행 프로젝트](https://www.notion.so/currenjin/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf)
+          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달.
           - 기획자, 개발자 간 유저 스토리 기반의 소통을 주도.
           - 테스트 및 체크리스트 중심 개발을 주도. <mark>Test/Checklist Driven Development</mark>
           - 프로젝트가 끝날 때마다 회고를 주도. <mark>KPT 기법</mark>
@@ -105,7 +107,8 @@ content:
         quote: >
           누적 회원 수 15 만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90억 투자 유치
         description: |
-          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달. [진행 프로젝트](https://currenjin.notion.site/TREVARI-984446f51fb34d9b9bb349c86ad7d1af)
+          - [진행 프로젝트](https://currenjin.notion.site/TREVARI-984446f51fb34d9b9bb349c86ad7d1af)
+          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달.
           - 절차 지향 코드를 도메인 기반의 이해하기 쉬운 <mark>객체지향 코드로 개선</mark>. 이해하기 위한 코드는 약 10,000 줄에서 15 줄로 감소.
           - AWS Lambda, EventBridge 를 통해 <mark>하루 약 1,500 건의 문자 발송 자동화 및 유지보수</mark>. Serverless framework 마이그레이션.
           - 운영 업무 자동화/효율화를 위한 <mark>백오피스 기능 설계/개발/유지보수</mark>, 크루의 관리 시간 약 70% 감소
