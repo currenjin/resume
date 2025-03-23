@@ -163,6 +163,59 @@ content:
     content:
       - layout: left
         border: weak
+        title: HLB 테라퓨틱스 콜드체인 관리시스템
+        link: https://www.notion.so/currenjin/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4#1be7e2088c5e8074b492eb599d99a687
+        link_text: 자세히
+        quote: >
+          HLB 테라퓨틱스의 OMS(주문), WMS(재고), TMS(배차)를 위한 통합 콜드체인 시스템입니다. 200억 규모의 시리즈B 투자를 유치할 수 있었던 핵심 사업입니다.<br>
+        description: |
+          - 통계
+              - 3만 건 주문 발생
+              - 41만 건 재고 처리
+              - 2만 건 착지 배차
+          - 프로젝트
+              - 2406 - 2407 기간 동안 200개의 태스크가 성공적으로 처리될 수 있도록 프로젝트 리딩
+              - 이천 현장에 직접 방문하여 주문/입고/출고/배차 프로세스 경험 후 팀 내 공유 ** 콜드체인 물류 도메인은 특히 팀 내에서도 익숙하지 않기 때문*
+          - 문화
+            - 코드 리뷰 & PR 문화 도입
+          - 주로 맡은 작업
+              - 주문 도메인
+              - 입고 도메인
+              - 출고 도메인
+              - 재고 도메인
+              - 구매 도메인
+              - 거래처 도메인
+              - 정산 도메인
+              - Dashboard API
+              - Open API
+              - Github Actions & Hooks
+              - PR Notification
+              - Rebase Notification
+              - Reviewer Notification
+              - Check compile
+      - layout: left
+        border: weak
+        title: 제주오늘 MSA 전환
+        link: https://www.notion.so/currenjin/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4#1be7e2088c5e807e82e6d9b8730bf058
+        link_text: 자세히
+        quote: >
+          제주오늘의 레거시 시스템을 고도화 및 향후 사내 타 서비스의 고도화를 위해 진행된 MSA 전환 프로젝트입니다. 절차지향의 딱딱한 시스템에서 객체 지향의 이벤트 기반 MSA 시스템으로 변경되었습니다.<br>
+        description: |
+          - 프로젝트
+              - 24.03.11 ~ 24.05.03 기간 동안 130개의 유저스토리 작업이 완수될 수 있도록 프로젝트 리딩(백엔드, 프론트엔드)
+                - *Two-week Sprint*
+                - *Daily Scrum(Only blocker)*
+          - 문화
+            - 코드 리뷰 & PR 문화 도입
+            - 테스트 작성 문화 도입
+            - 기획자와 개발자 간 유저스토리 기반 커뮤니케이션 문화 도입
+          - 작업
+              - 주문 도메인 작업
+              - RestDocs를 통한 API 문서 자동화 작업
+              - DomainEvent 기반 통신을 위한 MessageEnvelop 라이브러리 구현
+              - 통합 테스트 진행
+      - layout: left
+        border: weak
         title: 캐디터(Chaeditor) MVP
         link: https://currenjin.notion.site/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf
         link_text: 자세히
