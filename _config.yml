@@ -175,24 +175,12 @@ content:
               - 2만 건 착지 배차
           - 프로젝트
               - 2406 - 2407 기간 동안 200개의 태스크가 성공적으로 처리될 수 있도록 프로젝트 리딩
-              - 이천 현장에 직접 방문하여 주문/입고/출고/배차 프로세스 경험 후 팀 내 공유 ** 콜드체인 물류 도메인은 특히 팀 내에서도 익숙하지 않기 때문*
-          - 문화
-            - 코드 리뷰 & PR 문화 도입
+              - 이천 현장에 직접 방문하여 주문/입고/출고/배차 프로세스 경험 후 팀 내 공유(콜드체인 물류 도메인은 특히 팀 내에서도 익숙하지 않기 때문)
           - 주로 맡은 작업
-              - 주문 도메인
-              - 입고 도메인
-              - 출고 도메인
-              - 재고 도메인
-              - 구매 도메인
-              - 거래처 도메인
-              - 정산 도메인
+              - 주문/입고/출고/재고/구매/거래처/정산 도메인
               - Dashboard API
               - Open API
               - Github Actions & Hooks
-              - PR Notification
-              - Rebase Notification
-              - Reviewer Notification
-              - Check compile
       - layout: left
         border: weak
         title: 제주오늘 MSA 전환
@@ -203,8 +191,6 @@ content:
         description: |
           - 프로젝트
               - 24.03.11 ~ 24.05.03 기간 동안 130개의 유저스토리 작업이 완수될 수 있도록 프로젝트 리딩(백엔드, 프론트엔드)
-                - *Two-week Sprint*
-                - *Daily Scrum(Only blocker)*
           - 문화
             - 코드 리뷰 & PR 문화 도입
             - 테스트 작성 문화 도입
