@@ -54,7 +54,7 @@ instagram_username: currenjin
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-250304.jpg
 about_content: |
-  SpringBoot / NodeJS / Typescript / GraphQL / ReactJS / AWS 를 주로 사용해 온 개발자입니다. <mark>테스트</mark> 및 <mark>체크리스트</mark> 가 우선인 개발을 중요시하며, <mark>체크리스트 주도 개발(CDD)</mark> 이라는 개발 방법론을 만들어 팀 내에 공유했습니다.<br>
+  SpringBoot / Java / Kotlin / AWS / NodeJS 를 주로 사용했습니다. <mark>테스트</mark> 가 우선인 개발을 중요시하며, <mark>체크리스트 주도 개발(CDD)</mark> 이라는 개발 방법론을 만들어 팀 내에 공유하기도 했습니다.<br>
   도메인 프로젝트를 구현하고, 코드에 숨겨진 도메인을 드러내기 위한 설계 및 개선, 시스템 유지보수 등을 했습니다. 개인의 성장과 욕심보다는, 유저에게 전달되는 <mark>가치</mark> 가 가장 중요하다고 생각합니다. 항상 목적과 가치에 흥분합니다.<br>
   <br>
 
@@ -375,7 +375,7 @@ content:
       - 잘 알고 있는 도구라도 지속적으로 사용하지 않으면 무뎌지기 마련입니다. 빠르지 않더라도 멈추지 않는 꾸준함을 유지합니다.
 
       **얻은 것은 함께 나누자!**
-      - 새롭게 터득하거나 배운 기술들을 여러 사람들과 함께 나누어 소통하며, 정보 공유의 중요성을 바탕으로 알고자 하는 사람들도 함께 배울 수 있도록 블로그 또는 개인 위키에 기록합니다.
+      - 새롭게 터득하거나 배운 기술들을 여러 사람들과 함께 나누어 스터디를 진행하며, 정보 공유의 중요성을 바탕으로 알고자 하는 사람들도 함께 배울 수 있도록 블로그 또는 개인 위키에 기록합니다.
 
       **이 외에도 저에 대해 더 궁금하다면 아래 링크를 확인해 주세요!**
       - [취미](https://www.notion.so/currenjin/My-Hobby-2c69332f072244079626b4221c818cd4)
