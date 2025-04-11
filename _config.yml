@@ -84,8 +84,25 @@ content:
         quote: >
           사람들이 더욱 가까워지고 이어지기를 원하는 조직, 2023 예비창업패키지 최종 선정
         description: |
+          - [자세히 보기](https://www.notion.so/currenjin/COSMIC-CONNECTION-1d27e2088c5e8033825edae90fc9eb9f?pvs=4)
           - <mark>무물</mark> 앱 릴리즈. 사람들 스스로가 더 나은 기분을 느낄 수 있는 공간(앱)을 제공하는게 목적.
           - 사업 방향성 설정, 프로덕트 개발, 마케팅 등 MVP를 위한 모든 과정에 참여. <mark>현재 유저 약 800명</mark>, <mark>소셜 네트워킹 부문 174위</mark>
+          - 재무 & 회계
+            - <mark>예비창업패키지 선정을 통한 지원금 확보</mark>
+            - 법인 설립
+            - 각종 비용 집행(사무실, 인건비, 장비 등)
+          - 리더십 & 전략
+            - 사업/제품 전략 수립 및 기술 로드맵 설계
+            - 지원금 확보를 위한 전략적 접근
+            - VC 콜드메일 발송 및 IR 피칭
+            - <mark>비즈니스 KPI 설정 및 추적 관리</mark>
+            - <mark>팀 빌딩 및 인재 채용</mark>
+          - 개발
+            - <mark>초기 가설 검증을 위한 MVP 웹 구현</mark>
+            - <mark>지원금 확보 이후 MVP 앱 구현</mark>
+          - 마케팅
+            - 인스타그램 전략
+            - 전단지 전략
       - layout: left
         title: CJ ENM 캐디터
         sub_title: 테크 리드
@@ -200,6 +217,28 @@ content:
               - RestDocs를 통한 API 문서 자동화 작업
               - DomainEvent 기반 통신을 위한 MessageEnvelop 라이브러리 구현
               - 통합 테스트 진행
+      - layout: left
+        border: weak
+        title: 무물
+        link: https://www.notion.so/currenjin/COSMIC-CONNECTION-1d27e2088c5e8033825edae90fc9eb9f?pvs=4
+        link_text: 자세히
+        quote: >
+          Z세대 중/고등학생을 위한 익명 투표 소셜서비스입니다. 예비창업패키지에 선정되고, 앱스토어 소셜 네트워킹 부문 174위를 달성했습니다. <br>
+        description: |
+          - 무물 베타테스트 - MVP 웹(가설 검증)
+              - 4일간 50명의 유저를 대상으로 검증
+              - 지표를 통해 높은 유저 리텐션 검증 → 동료들과 함께 더 진행해보자 판단
+                  - 하루 평균 페이지 조회 수 : 25회
+                  - 총 이벤트 수 : 6000회
+                  - 투표 답변 수 : 800회
+                  - 투표 재답변율 : 90%
+          - 무물 - MVP 앱(프로덕션)
+              - 가입 유저수 : 850명
+              - 이벤트 수 : 193만
+              - 투표 답변 수 : 3만
+              - 답변 확인 수 : 5만
+              - 앱스토어 소셜 네트워킹 부문 174위
+              - 500 Global
       - layout: left
         border: weak
         title: 캐디터(Chaeditor) MVP
