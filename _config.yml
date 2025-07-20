@@ -54,11 +54,11 @@ instagram_username: currenjin
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile-250304.jpg
 about_content: |
-  <mark>1,000명 유저 확보와 예비창업패키지 선정, 그리고 200억 투자 유치에 기여한 시스템 개발까지—도메인을 중심으로 문제를 해결하는 개발자입니다.</mark><br>
-  <br>
-  도메인 프로젝트를 구현하고, 코드에 숨겨진 도메인을 드러내기 위한 설계 및 개선, 시스템 유지보수 등을 했습니다. 개인의 성장과 욕심보다는, 유저에게 전달되는 <mark>가치</mark> 가 가장 중요하다고 생각합니다. 항상 목적과 가치에 흥분합니다.<br>
-  SpringBoot / Java / Kotlin / AWS / NodeJS 를 주로 사용했습니다. <mark>테스트</mark> 가 우선인 개발을 중요시하며, <mark>체크리스트 주도 개발(CDD)</mark> 이라는 개발 방법론을 만들어 팀 내에 공유하기도 했습니다.<br>
-  <br>
+  기술은 도구일 뿐, 고객에게 전달되는 ‘가치’와 팀의 지속 가능한 성장에 집중해, 실행과 실험으로 이를 구체화해온 5년차 엔지니어이자 Maker입니다.
+  
+  1) <mark>0 to 1 Maker</mark>: 예비창업패키지 선정과 1,000명의 유저를 달성한 코스믹커넥션 창업,
+  2) <mark>System Architect</mark>: MSA 도입을 경험한 트레바리와 콜드체인 물류 도메인 설계는 위밋모빌리티,
+  3) <mark>Growth Driver</mark>: 사내 스터디와 회고, TDD를 주도하며 팀내 성장까지 가져왔습니다.
 
 content:
   - title: Experience
