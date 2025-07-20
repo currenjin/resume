@@ -72,12 +72,9 @@ content:
         quote: >
           모두를 위한 모든 이동의 혁신을 만들어나가는 기업, 총 270억 규모 투자 유치
         description: |
-          - [진행프로젝트](https://currenjin.notion.site/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4)
-          - 2025 산업기능요원 현역 복무
-          - <mark>HLB 테라퓨틱스 콜드체인 프로젝트</mark>의 성공적인 마무리로 <mark>200억 규모 시리즈B 투자</mark>에 기여.
-          - <mark>제주오늘 MSA 전환 프로젝트의 설계/개발/배포</mark> 주도. 이벤트 스토밍/테스트 주도 개발을 통한 프로젝트 빌딩.
-          - <mark>사내 스터디 운영</mark>을 통해 성장을 갈망하는 모두에게 도움되는 환경 구성. 
-          - 프로젝트가 끝날 때마다 회고를 주도. <mark>KPT 기법</mark>
+          - Node.js 기반 단일 서비스에서 Spring Boot + Kotlin 기반 MSA 구조로 전환을 주도했습니다.
+          - 도메인 중심으로 구조를 설계하고, 이벤트 스토밍과 테스트/리뷰 문화 도입으로 팀 내 개발 프로세스를 재정립했습니다.
+          - 3만 주문·41만 재고·2만 배차 처리 시스템을 안정적으로 구축했고, 해당 프로젝트는 200억 시리즈B 투자 유치에 핵심적인 성과가 되었습니다.
       - layout: left
         title: Cosmic Connection
         sub_title: CEO
@@ -86,44 +83,31 @@ content:
         quote: >
           사람들이 더욱 가까워지고 이어지기를 원하는 조직, 2023 예비창업패키지 최종 선정
         description: |
-          - [자세히 보기](https://www.notion.so/currenjin/COSMIC-CONNECTION-1d27e2088c5e8033825edae90fc9eb9f?pvs=4)
-          - <mark>무물</mark> 앱 릴리즈. 사람들 스스로가 더 나은 기분을 느낄 수 있는 공간(앱)을 제공하는게 목적.
-          - 사업 방향성 설정, 프로덕트 개발, 마케팅 등 MVP를 위한 모든 과정에 참여. <mark>최종 유저 1000명</mark>, <mark>소셜 네트워킹 부문 174위</mark>
-          - [재무 & 회계] <mark>예비창업패키지 선정을 통한 지원금 확보</mark>
-          - [리더십 & 전략] 사업/제품 전략 수립 및 기술 로드맵 설계
-          - [리더십 & 전략] 지원금 확보를 위한 전략적 접근
-          - [리더십 & 전략] VC 콜드메일 발송 및 IR 피칭
-          - [리더십 & 전략] <mark>비즈니스 KPI 설정 및 추적 관리</mark>
-          - [리더십 & 전략] <mark>팀 빌딩 및 인재 채용</mark>
-          - [개발] <mark>초기 가설 검증을 위한 MVP 웹 구현</mark>
-          - [개발] <mark>지원금 확보 이후 MVP 앱 구현</mark>
-          - [마케팅] 인스타그램 & 전단지 전략 <mark>7일간 101명 유입</mark>
+          - 기획–디자인–개발을 모두 리딩하며 Flutter 기반 MVP를 3주 내 출시하고, 사용자 인터뷰와 데이터 기반 기능 개선을 반복했습니다.
+          - MVP 웹에서 50명 대상 투표 재답변율 90%를 유지하며 PMF 가능성을 검증했습니다.
+          - MVP 앱 내 1,000명 이상 유입에 성공해 앱스토어 소셜 부문 174위를 달성했습니다. 이를 통해 예비창업패키지 및 500Global Post Fast-Track에 선정되었습니다.
       - layout: left
         title: CJ ENM 캐디터
-        sub_title: 테크 리드
+        sub_title: 테크 리드(freelancer)
         caption: 2022.09 ~ 2022.12
         link: https://chaeditor.im
         quote: >
           웹소설 또는 웹툰 작가를 위한 작품/캐릭터 빌딩 플랫폼, CJ ENM 사내벤처 Series A 1기 선정
         description: |
-          - [진행 프로젝트](https://www.notion.so/currenjin/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf)
-          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달.
-          - 기획자, 개발자 간 유저 스토리 기반의 소통을 주도.
-          - 테스트 및 체크리스트 중심 개발을 주도. <mark>Test/Checklist Driven Development</mark>
-          - 프로젝트가 끝날 때마다 회고를 주도. <mark>KPT 기법</mark>
+          - Spring Boot 기반 백엔드 및 PostgreSQL 모델링을 맡아 캐릭터·소설·복선 등 창작 도메인을 구조화하고, 도메인/애플리케이션 계층으로 설계했습니다.
+          - 40개 이상 유저 스토리를 테스트/체크리스트 기반으로 개발하고, OAuth 로그인·자동저장·단축키 등 핵심 기능을 두 차례 MVP로 구현했습니다.
+          - 청강대 해커톤 행사에서 캐디터 서비스를 실사용자에게 제공하며, 발생한 장애를 실시간으로 대응하고 사용자 반응을 현장에서 직접 관찰했습니다.
       - layout: left
         title: 트레바리(TREVARI)
         sub_title: 도메인 엔지니어
         caption: 2020.09 ~ 2022.09
         link: https://trevari.co.kr
         quote: >
-          누적 회원 수 15 만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90억 투자 유치
+          누적 회원 수 15만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90억 투자 유치
         description: |
-          - [진행 프로젝트](https://currenjin.notion.site/TREVARI-984446f51fb34d9b9bb349c86ad7d1af)
-          - <mark>신규 프로젝트 설계/개발/배포/운영</mark>, 사용자스토리 기반/테스트 주도 개발을 통한 가치 전달.
-          - 절차 지향 코드를 도메인 기반의 이해하기 쉬운 <mark>객체지향 코드로 개선</mark>. 이해하기 위한 코드는 약 10,000 줄에서 15 줄로 감소.
-          - AWS Lambda, EventBridge 를 통해 <mark>하루 약 1,500 건의 문자 발송 자동화 및 유지보수</mark>. Serverless framework 마이그레이션.
-          - 운영 업무 자동화/효율화를 위한 <mark>백오피스 기능 설계/개발/유지보수</mark>, 크루의 관리 시간 약 70% 감소
+          - 레거시 중심의 절차형 코드 기반 시스템을 도메인 모델링 기반 객체지향 구조로 리팩토링하며, 주문 처리 로직을 10,000줄에서 15줄로 축소했습니다.
+          - AWS Lambda 및 EventBridge 기반의 문자 자동화 시스템을 구축해 하루 약 1,500건을 무중단 처리했고, 백오피스 기능 개선으로 운영 업무 시간을 약 70% 절감했습니다.
+          - DLQ 처리, 휴면 계정 전환(4.1만 건), 클럽 소개글 작성시간 72% 단축, 신규 서비스(유클매, 자스민 등) 기능 개발을 통해 시스템 안정성과 운영 효율을 동시에 높였습니다.
       - layout: left
         title: 조인트리(JOINTREE)
         sub_title: 행정안전부 네트워크 엔지니어
@@ -131,298 +115,21 @@ content:
         quote: >
           내/외부망 합 3000대 규모 네트워크 관리 및 보안 업무 지원
         description: |
-          - <mark>Network 관리</mark>
-              L2/L3 Switch, Router, Backbone, IPT, 패킷분석, 통신회선 구축, 논리적/물리적 망분리, 원활한 통신 위한 효율성 고려 네트워크 구축
-          - <mark>보안업무 지원</mark>
-              통합관리시스템(EMS), 네트워크 차단/탐지 시스템(IPS/IDS), 네트워크 접근 통제 시스템(NAC), 방화벽(F/W), 사내 보안 정책
-  - title: Skill
-    layout: list
-    content:
-      - layout: left
-        title: Language
-        description: |
-          - Java, Javascript, Typescript
-      - layout: left
-        title: Backend
-        description: |
-          - Spring Boot, Spring MVC, Spring Batch, Spring Data JDBC, Spring Cloud AWS
-          - NodeJS, GraphQL, Sequelize
-          - Mockito, JUnit 4/5
-          - Gradle
-      - layout: left
-        title: Frontend
-        description: |
-          - ReactJS, NextJS
-          - NPM, Webpack
-          - HTML, CSS
-      - layout: left
-        title: DevOps
-        description: |
-          - Postgresql, MySQL
-          - Linux
-          - Docker, Docker Compose, Dockerfile, Docker Image
-          - AWS EC2, Elastic Beanstalk, SQS, SNS, SES, S3, RDS, Lambda, Cloud Watch, Event Bridge
-      - layout: left
-        title: Network
-        description: |
-          - Cisco Router/Switch configuration & installation
-          - Alcatel L2/L3/Backbone configuration & installation
-          - IP Phone Settings
-          - Network Access Control
-
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: HLB 테라퓨틱스 콜드체인 관리시스템
-        link: https://www.notion.so/currenjin/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4#1be7e2088c5e8074b492eb599d99a687
-        link_text: 자세히
-        quote: >
-          HLB 테라퓨틱스의 OMS(주문), WMS(재고), TMS(배차)를 위한 통합 콜드체인 시스템입니다. 200억 규모의 시리즈B 투자를 유치할 수 있었던 핵심 사업입니다.<br>
-        description: |
-          - 통계
-              - 3만 건 주문 발생
-              - 41만 건 재고 처리
-              - 2만 건 착지 배차
-          - 프로젝트
-              - 2406 - 2407 기간 동안 200개의 태스크가 성공적으로 처리될 수 있도록 프로젝트 리딩
-              - 이천 현장에 직접 방문하여 주문/입고/출고/배차 프로세스 경험 후 팀 내 공유(콜드체인 물류 도메인은 특히 팀 내에서도 익숙하지 않기 때문)
-          - 주로 맡은 작업
-              - 주문/입고/출고/재고/구매/거래처/정산 도메인
-              - Dashboard API
-              - Open API
-              - Github Actions & Hooks
-      - layout: left
-        border: weak
-        title: 제주오늘 MSA 전환
-        link: https://www.notion.so/currenjin/WEMEET-MOBILITY-1be7e2088c5e8047b637eb6aed7bfe8a?pvs=4#1be7e2088c5e807e82e6d9b8730bf058
-        link_text: 자세히
-        quote: >
-          제주오늘의 레거시 시스템을 고도화 및 향후 사내 타 서비스의 고도화를 위해 진행된 MSA 전환 프로젝트입니다. 절차지향의 딱딱한 시스템에서 객체 지향의 이벤트 기반 MSA 시스템으로 변경되었습니다.<br>
-        description: |
-          - 프로젝트
-              - 24.03.11 ~ 24.05.03 기간 동안 130개의 유저스토리 작업이 완수될 수 있도록 프로젝트 리딩(백엔드, 프론트엔드)
-          - 문화
-            - 코드 리뷰 & PR 문화 도입
-            - 테스트 작성 문화 도입
-            - 기획자와 개발자 간 유저스토리 기반 커뮤니케이션 문화 도입
-          - 작업
-              - 주문 도메인 작업
-              - RestDocs를 통한 API 문서 자동화 작업
-              - DomainEvent 기반 통신을 위한 MessageEnvelop 라이브러리 구현
-              - 통합 테스트 진행
-      - layout: left
-        border: weak
-        title: 무물
-        link: https://www.notion.so/currenjin/COSMIC-CONNECTION-1d27e2088c5e8033825edae90fc9eb9f?pvs=4
-        link_text: 자세히
-        quote: >
-          Z세대 중/고등학생을 위한 익명 투표 소셜서비스입니다. 예비창업패키지에 선정되고, 앱스토어 소셜 네트워킹 부문 174위를 달성했습니다. <br>
-        description: |
-          - 무물 베타테스트 - MVP 웹(가설 검증)
-              - 4일간 50명의 유저를 대상으로 검증
-              - 지표를 통해 높은 유저 리텐션 검증 → 동료들과 함께 더 진행해보자 판단
-                  - 하루 평균 페이지 조회 수 : 25회
-                  - 총 이벤트 수 : 6000회
-                  - 투표 답변 수 : 800회
-                  - 투표 재답변율 : 90%
-          - 무물 - MVP 앱(프로덕션)
-              - 가입 유저수 : 850명
-              - 이벤트 수 : 193만
-              - 투표 답변 수 : 3만
-              - 답변 확인 수 : 5만
-              - 앱스토어 소셜 네트워킹 부문 174위
-              - 500 Global
-      - layout: left
-        border: weak
-        title: 캐디터(Chaeditor) MVP
-        link: https://currenjin.notion.site/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf
-        link_text: 자세히
-        quote: >
-          웹소설 또는 웹툰 작가를 위한 작품/캐릭터 빌딩 플랫폼입니다. 현재 수백개의 캐릭터와 작품이 플랫폼을 사용하는 작가의 손에서 탄생했습니다.<br>
-        description: |
-          - 주요 API Controller 개발
-          - 주요 도메인 레이어 개발
-          - 주요 어플리케이션 레이어 개발
-          - Mockito, JUnit 을 이용한 도메인/어플리케이션 테스트 코드 작성
-          - 데이터베이스 스키마 설계 및 정의
-          - 서버 구축 및 배포 플로우 정의
-          - 페이지 UI 구현
-      - layout: left
-        border: weak
-        title: 평생교육원 전환
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#75cf6b602f2749069fc163f7e5f3eb0c
-        link_text: 자세히
-        quote: >
-          트레바리의 평생교육원 전환으로 파생된 시스템 아키텍처 개선 프로젝트입니다. 기존 레거시 시스템의 불편함을 해소하고, 변화에 닫혀있던 딱딱한 시스템에서 하루 약 2만 건 이상 발생하는 이벤트를 처리할 수 있는 유연한 시스템으로 변경되었습니다.<br>
-        description: |
-          - SQS Message Consumer(Spring Cloud AWS Messaging)
-          - 주요 도메인 레이어 개발
-          - 주요 어플리케이션 레이어 개발
-          - Mockito, JUnit 4/5 를 이용한 도메인/어플리케이션 테스트 코드 작성
-      - layout: left
-        border: weak
-        title: 주문 아키텍처 개선
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#afb197b6bcf64e2aa5dd28700ca6efdb
-        link_text: 자세히
-        quote: >
-          트레바리 주문 아키텍처를 개선했습니다. 절차 지향 코드를 도메인 기반의 이해하기 쉬운 객체 지향 코드로 개선했습니다. 이에 따른 리팩토링이 주된 작업입니다. 개발자가 이해하기 위한 코드는 10,000 줄에서 15 줄로 감소했습니다.
-        description: |
-          개발자가 주문 신청 시스템의 이해에 들이는 시간을 줄입니다.<br>
-          - 어떤 Validate, Rollback, Process 가 진행되는지 한 눈에 파악할 수 있습니다.
-          - 시스템의 단순화로 인해, 복잡도가 낮아집니다.
-          - 복잡도가 낮아지면서, 개발자의 개발 속도가 빨라집니다.
-          - 비교적 피처를 빠르게 추가할 수 있게됩니다.
-      - layout: left
-        border: weak
-        title: 놀러가기 서비스 개선
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#16a86f10cd034ed2ada5b7e68dcc83a6
-        link_text: 자세히
-        quote: >
-          트레바리 시스템 내 개념으로만 존재하던 놀러가기 서비스를 개선했습니다. 크루는 유저가 신청한 놀러가기 서비스를 수기로 처리했었고, 유저는 자신이 놀러가기를 할 수 있는지 확실하게 알 수 없었습니다. 놀러가기라는 도메인을 드러내 두 불편함을 해소했습니다.
-        description: |
-          - API Controller
-          - 외부 모듈 조회(놀러가기 쿠폰)
-          - 도메인 개발
-          - 도메인 상태 관리
-          - JDBC Repository
-      - layout: left
-        border: weak
-        title: 클럽 소개글 개선
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#67921c04b6604b4db425f5ef04bf9b23
-        link_text: 자세히
-        quote: >
-          트레바리 클럽의 각 파트너는 클럽에 필요한 정보를 삽입해야 합니다. 크루는 파트너와 직접 커뮤니케이션하며 수기로 확인했던 방식을 자동화했습니다. 클럽 소개글 완성 시간이 평균 36분에서 10분으로 약 72% 대폭 감소, 클럽 소개글 완성도가 평균 78% 에서 99% 으로 21% 증가했습니다.
-        description: |
-          - 클럽 소개서 테이블 설계
-          - 소개서 피드백 테이블 설계
-          - Sequelize Migration 을 통한 테이블 추가 및 컬럼 변경
-          - GraphQL Resolver 를 이용한 CRUD API 정의
-      - layout: left
-        border: weak
-        title: 기간 만료에 따른 티켓 만료 처리
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#fcf022175f1f4436b56a440789d6738d
-        link_text: 자세히
-        quote: >
-          트레바리 유저는 각 서비스를 이용할 수 있는 티켓을 소유합니다. 티켓은 만료된 일자가 지나면 사용할 수 없게 설계되었는데, 만료 시 티켓을 제거하는 작업입니다. 하루 약 400개의 티켓이 제거됩니다.
-        description: |
-          - 도메인 작업을 통해 티켓 만료 여부를 확인
-          - Batch Configuration 을 통한 만료 티켓 제거
-      - layout: left
-        border: weak
-        title: 유클매(유저-클럽 매칭)
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#19ad136011e24b1f985e8b8f69defbca
-        link_text: 자세히
-        quote: >
-          트레바리 클럽 선택이 어려운 유저를 위해 질의응답을 통한 클럽 추천을 받습니다. 질의응답한 유저 중 85%가 클럽 미경험자입니다.
-        description: |
-          - 테이블 설계
-          - 결과 데이터 마이그레이션
-          - Create, Update API
-          - Google Analytics 이벤트
-          - Kakaotalk 공유 및 링크 복사
-      - layout: left
-        border: weak
-        title: 자스민
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#52e8cfd4998241b382ca32b421b3b36b
-        link_text: 자세히
-        quote: >
-          유저는 트레바리 독서모임 클럽을 결제할 때 책과 함께 결제할 수 있습니다. 클럽을 결제한 후 책을 따로 구매해야 했던 불편한 경험을 해소했습니다. 클럽 구매 유저 중 18%가 책을 함께 구매, 주당 약 90권의 책을 판매했습니다.
-        description: |
-          - 책에 대한 주문 정보를 저장합니다.
-          - 책을 함께 주문했을 때, 책 금액을 포함한 금액이 결제됩니다.
-          - 책을 함께 주문했을 때, 주문됨 이벤트를 발행합니다.
-      - layout: left
-        border: weak
-        title: DLQ Notification
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#8eb94909118442ecba40bc973fef0cf9
-        link_text: 자세히
-        quote: >
-          트레바리 시스템 내 Consumer 가 SQS 메시지 소비에 실패했을 때, 알림을 받을 수 있도록 합니다. 에러가 발생했을 때 빠르게 발생 사실 및 원인을 파악할 수 있도록 하는 것이 목적입니다.
-        description: |
-          - SQS 메시지 소비 실패 시 DLQ 삽입
-          - Lambda 함수를 이용한 DLQ 메시지 소비
-          - Lambda 함수를 이용한 슬랙 알림 메시지 발송
-      - layout: left
-        border: weak
-        title: 휴면 계정 처리
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#673fcc6903844966be140f503f973be3
-        link_text: 자세히
-        quote: >
-          트레바리에 1년 동안 로그인하지 않은 유저는 1년이 경과된 시점부터 휴면 계정으로 간주해, 정보를 파기하거나 분리 보관해야 합니다. 트레바리에선 적용되지 않고 있던 휴면 계정 변환 작업을 진행했습니다. 작업 완료 시점 약 4.1만 명을 휴면 계정으로 전환했습니다.
-        description: |
-          - ReactJS 를 이용한 휴면 해제 페이지
-          - 크루 어드민 페이지 내 휴면 계정 조회 페이지
-          - 크루 어드민 페이지 내 휴면 계정 수동 해제 기능
-      - layout: left
-        border: weak
-        title: 트담트담
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#bb5d4ce412dd44c1977a34ccc225061d
-        link_text: 자세히
-        quote: >
-          트담트담은 환자들만 심리 상담을 받는다는 인식에서 벗어나, 모든 사람들이 마음 건강을 위해 상담을 받는 프로덕트입니다. 호시담 심리상담센터와 협업했습니다. 기존 트레바리 클럽 프로세스를 차용했습니다.
-        description: |
-          - GraphQL API 요청을 통한 가입 문자 발송
-          - 메일 발송
-          - 마음스캔 결과 테이블 설계
-          - 마음스캔 결과 API 정의
-          - 페이지 추가
-      - layout: left
-        border: weak
-        title: 마음 스캔 리포트
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#2414fe542b304440b060ce33c2382ff9
-        link_text: 자세히
-        quote: >
-          트담트담에서 자존감을 주제로 한 마음 스캔입니다. 23개의 검사 문항과 8개 결과 유형으로 구성됩니다. 타사와 협업 중이던 ‘트담트담' 서비스의 인지도 상승을 목적으로 작업했으며, 해당 상품 구매로 이어질 것으로 기대했습니다. 마음 스캔 목표 8,500명 대비 67%(5,705명)가 참여했습니다.
-        description: |
-          - Google Analytics 이벤트 수집
-          - 페이스북, 카카오톡 공유하기 / 링크 복사 기능
-          - 마음 스캔 검사 페이지
-
+          - L2/L3 Switch, Router, Backbone, IPT, 패킷분석, 통신회선 구축, 논리적/물리적 망분리, 원활한 통신 위한 효율성을 고려한 네트워크를 구축했습니다.
+          - 통합관리시스템(EMS), 네트워크 차단/탐지 시스템(IPS/IDS), 네트워크 접근 통제 시스템(NAC), 방화벽(F/W) 등을 통해 보안 모니터링 업무를 지원했습니다.
   - title: Education
     layout: list
     content:
-      - layout: left
-        title: AWS 아키텍처 설계 및 운영 전문가 양성과정
-        caption: 2019.12~ 2020.07
-        quote: >
-          AWS 클라우드 교육
-        description: |
-          - 클라우드를 향한 관심이 호감으로 바뀌어 수강한 교육
-          - AWS Cloud, Openstack
-          - 클라우드 뿐만 아니라 네트워크, 개발, 보안, 서버 분야 강의도 진행하며 전체적인 서비스 흐름을 파악
-          - 본 과정 종합평가 <mark>최우수 교육생</mark>
-      - layout: left
-        title: 공주대학교 정보보호 영재교육원 수료
-        caption: 2018.03 ~ 2018.11
-        quote: >
-          정보보호 분야에 관심을 보이는 이들을 선발 후 무상 정보보호 교육
-        description: |
-          - Spoofing, 사회공학공격 등의 해킹기법에 대해 대응방안 물색
-          - 정보보호 기술 발표(블록체인 기술)
-          - 사이버공격 대회
-      - layout: left
-        title: 국제기능올림픽대회 특별교육 이수
-        caption: 2017.11
-        quote: >
-          한국산업인력공단 산하 Linux server 교육
-        description: |
-          - Bind9, Ldap, Apcahe 등의 서버 구축
-          - Network service 구성
-          - Directory, File System 관리
       - layout: left
         title: IT Network System
         caption: 2016.03 ~ 2019.02
         quote: >
           한국산업인력공단이 주최하는 기능경기대회를 목적으로 개설된 동아리
         description: |
-          - Network/Server 이해와 구성 가능한 기술 수준을 요구
-          - 2019 한국산업인력공단 <mark>표창</mark>
-          - 2018 전국기능경기대회 <mark>장려상</mark>
-          - 2018 대전지방기능경기대회 <mark>금메달</mark>
-          - 2017 대전지방기능경기대회 <mark>은메달</mark>
-          - 2016 (사)기능한국인회 <mark>장학생</mark>
+          - 기능경기대회 다수 수상
+          - Network: Cisco Router/Switch/VoIP Phone
+          - Linux(Ubuntu): DNS, CA, Partitioning, Scheduling, File System
+          - Windows Server: Web server, DHCP, DNS, User profile
       - layout: left
         title: 계룡디지텍고등학교 정보통신과
         caption: 2016.03 ~ 2019.02
@@ -432,35 +139,48 @@ content:
           - 2019 <mark>기능상</mark>
           - 2018 교내 전공연구회 <mark>1위</mark>
           - 2017 교내 전공연구회 <mark>1위</mark>
-  - title: Certificate
-    layout: text
-    content: |
-      - 2020.07  Azure Certified AZ-900
-      - 2020.02  Cisco Certificate Network Associate
-      - 2019.05  정보처리산업기사
-      - 2018.07  전기기능사
-      - 2018.06  리눅스마스터 2급
-      - 2016.09  네트워크관리사 2급
-      - 2016.09  정보기기운용기능사
-  - title: A Little More About Me
-    layout: text
-    content: |
-      **도전을 즐긴다.**
-      - 배는 항구에 있을 때 가장 안전합니다. 하지만 그것이 배가 존재하는 이유는 아닌 것처럼, 계속해서 항해하고 도전하는 '배'와 같은 사람입니다.
-
-      **배움을 즐긴다.**
-      - 사람의 지적 능력은 고정된 것이 아니라, 지속적으로 향상될 수 있다고 믿습니다. 배움에 대한 가치를 높게 평가하는 '자신'입니다.
-
-      **꾸준함을 유지한다.**
-      - 잘 알고 있는 도구라도 지속적으로 사용하지 않으면 무뎌지기 마련입니다. 빠르지 않더라도 멈추지 않는 꾸준함을 유지합니다.
-
-      **얻은 것은 함께 나누자!**
-      - 새롭게 터득하거나 배운 기술들을 여러 사람들과 함께 나누어 스터디를 진행하며, 정보 공유의 중요성을 바탕으로 알고자 하는 사람들도 함께 배울 수 있도록 블로그 또는 개인 위키에 기록합니다.
-
-      **이 외에도 저에 대해 더 궁금하다면 아래 링크를 확인해 주세요!**
-      - [취미](https://www.notion.so/currenjin/My-Hobby-2c69332f072244079626b4221c818cd4)
-      - [인터뷰](https://www.theteams.kr/teamterview/page/573)
-
+  - title: Skill
+    layout: list
+    content:
+      - title: Language, Framework and Application
+        layout: left
+        description: |
+          - Java, Kotlin, Javascript, Typescript
+          - Spring Boot, NodeJS, React
+          - AWS: Elastic Beanstalk, Lambda, SQS
+          - Firebase: Auth, Realtime, Database, Push Notification
+          - Database: MySQL, PostgreSQL, MongoDB
+      - title: Tool
+        layout: left
+        description: |
+          - Slack, Github, Notion, Jira & Confluence
+  - title: Additional Skill & Information
+    layout: list
+    content:
+    - title: Opensource
+      layout: left
+      description: |
+        - [Spring Framework](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+author%3Acurrenjin)
+        - [Spring Boot](https://github.com/spring-projects/spring-boot/pulls?q=is%3Apr+author%3Acurrenjin+)
+        - [Site for developers](https://github.com/currenjin/site-for-developers)
+        - [Alexandria Playground](https://github.com/currenjin/alexandria-playground)
+        - [Wharf](https://github.com/currenjin/wharf)
+    - title: Lecture
+      layout: left
+      description: |
+        - [Site for developers](https://github.com/currenjin/site-for-developers)
+        - [Alexandria Playground](https://github.com/currenjin/alexandria-playground)
+        - [Wharf](https://github.com/currenjin/wharf)
+    - title: Certificate
+      layout: left
+      description: |
+        - 2020.07  Azure Certified AZ-900
+        - 2020.02  Cisco Certificate Network Associate
+        - 2019.05  정보처리산업기사
+        - 2018.07  전기기능사
+        - 2018.06  리눅스마스터 2급
+        - 2016.09  네트워크관리사 2급
+        - 2016.09  정보기기운용기능사
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
