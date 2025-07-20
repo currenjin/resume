@@ -75,7 +75,7 @@ content:
         description: |
           - Node.js 기반 단일 서비스에서 Spring Boot + Kotlin 기반 MSA 구조로 전환을 주도했습니다.
           - 도메인 중심으로 구조를 설계하고, 이벤트 스토밍과 테스트/리뷰 문화 도입으로 팀 내 개발 프로세스를 재정립했습니다.
-          - 3만 주문·41만 재고·2만 배차 처리 시스템을 안정적으로 구축했고, 해당 프로젝트는 200억 시리즈B 투자 유치에 핵심적인 성과가 되었습니다.
+          - <mark>3만 주문·41만 재고·2만 배차 처리 시스템을 안정적으로 구축</mark>했고, 해당 프로젝트는 <mark>200억 시리즈B 투자 유치에 핵심적인 성과</mark>가 되었습니다.
       - layout: left
         title: Cosmic Connection
         sub_title: CEO
@@ -85,8 +85,8 @@ content:
           사람들이 더욱 가까워지고 이어지기를 원하는 조직, 2023 예비창업패키지 최종 선정
         description: |
           - 기획–디자인–개발을 모두 리딩하며 Flutter 기반 MVP를 3주 내 출시하고, 사용자 인터뷰와 데이터 기반 기능 개선을 반복했습니다.
-          - MVP 웹에서 50명 대상 투표 재답변율 90%를 유지하며 PMF 가능성을 검증했습니다.
-          - MVP 앱 내 1,000명 이상 유입에 성공해 앱스토어 소셜 부문 174위를 달성했습니다. 이를 통해 예비창업패키지 및 500Global Post Fast-Track에 선정되었습니다.
+          - MVP 웹에서 <mark>50명 대상 투표 재답변율 90%를 유지</mark>하며 PMF 가능성을 검증했습니다.
+          - MVP 앱 내 <mark>1,000명 이상 유입에 성공</mark>해 앱스토어 소셜 부문 174위를 달성했습니다. 이를 통해 <mark>예비창업패키지</mark> 및 <mark>500Global Post Fast-Track</mark>에 선정되었습니다.
       - layout: left
         title: CJ ENM 캐디터
         sub_title: 테크 리드(freelancer)
@@ -106,9 +106,9 @@ content:
         quote: >
           누적 회원 수 15만 명과 함께한 프리미엄 독서모임 커뮤니티, 총 90억 투자 유치
         description: |
-          - 레거시 중심의 절차형 코드 기반 시스템을 도메인 모델링 기반 객체지향 구조로 리팩토링하며, 주문 처리 로직을 10,000줄에서 15줄로 축소했습니다.
-          - AWS Lambda 및 EventBridge 기반의 문자 자동화 시스템을 구축해 하루 약 1,500건을 무중단 처리했고, 백오피스 기능 개선으로 운영 업무 시간을 약 70% 절감했습니다.
-          - DLQ 처리, 휴면 계정 전환(4.1만 건), 클럽 소개글 작성시간 72% 단축, 신규 서비스(유클매, 자스민 등) 기능 개발을 통해 시스템 안정성과 운영 효율을 동시에 높였습니다.
+          - 레거시 중심의 절차형 코드 기반 시스템을 도메인 모델링 기반 객체지향 구조로 리팩토링하며, <mark>주문 처리 로직을 10,000줄에서 15줄로 축소</mark>했습니다.
+          - AWS Lambda 및 EventBridge 기반의 문자 자동화 시스템을 구축해 <mark>하루 약 1,500건을 무중단 처리</mark>했고, 백오피스 기능 개선으로 <mark>운영 업무 시간을 약 70% 절감</mark>했습니다.
+          - <mark>DLQ 처리, 휴면 계정 전환(4.1만 건), 클럽 소개글 작성시간 72% 단축, 신규 서비스(유클매, 자스민 등) 기능 개발</mark>을 통해 시스템 안정성과 운영 효율을 동시에 높였습니다.
       - layout: left
         title: 조인트리(JOINTREE)
         sub_title: 행정안전부 네트워크 엔지니어
@@ -132,7 +132,7 @@ content:
         quote: >
           한국산업인력공단이 주최하는 기능경기대회를 목적으로 개설된 동아리
         description: |
-          - 기능경기대회 다수 수상
+          - <mark>기능경기대회 다수 수상</mark>
           - Network: Cisco Router/Switch/VoIP Phone
           - Linux(Ubuntu): DNS, CA, Partitioning, Scheduling, File System
           - Windows Server: Web server, DHCP, DNS, User profile
