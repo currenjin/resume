@@ -55,10 +55,11 @@ instagram_username: currenjin
 about_profile_image: images/profile-250304.jpg
 about_content: |
   기술은 도구일 뿐, 고객에게 전달되는 ‘가치’와 팀의 지속 가능한 성장에 집중해, 실행과 실험으로 이를 구체화해온 5년차 엔지니어이자 Maker입니다.
+  <br>
   
   1) <mark>0 to 1 Maker</mark>: 예비창업패키지 선정과 1,000명의 유저를 달성한 코스믹커넥션 창업,<br>
   2) <mark>System Architect</mark>: MSA 도입을 경험한 트레바리와 콜드체인 물류 도메인 설계는 위밋모빌리티,<br>
-  3) <mark>Growth Driver</mark>: 사내 스터디와 회고, TDD를 주도하며 팀내 성장까지 가져왔습니다.<br>
+  3) <mark>Growth Driver</mark>: 사내 스터디와 회고, TDD를 주도하며 팀내 성장까지 가져왔습니다.
 
 content:
   - title: Experience
